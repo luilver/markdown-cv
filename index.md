@@ -1,88 +1,143 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Luilver Garces
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Luilver Garces
+Computer Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="luilver@gmail.com">luilver@gmail.com</a>
+| <a href="https://keybase.io/luilver">https://keybase.io/luilver</a>
 </div>
 
+## Contact
 
-## Currently
+`Address`
+Zequeira #223 e/ Cruz del padre y Consejero Arango, Cerro, 10200, Cuba
 
-Standing on the shoulders of giants
+`Telephones`
+[+53 5264 4047](tel:+5352644047) **(WhatsApp)**
+
+- [+53 7870 2518](tel:+5378702518)
+
+`Born`
+__Ukraine__
+
+`Lives`
+__Cuba__
+
+`Birthday`
+July 29, 1983 (35 years old)
+
+`Gender`
+Male
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+Web development and web services.
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2014-2017`
+**SkyPlanner** - Miami, U.S
 
-- Warden
-- Minted coins
+`2012-2014`
+**Mixed Business Group** - New York, U.S
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2009-2012`
+**Project Binario** - San Fco, U.S
 
+`2008-2010`
+**Caraibes Autrement S.A** - París, Francia
 
+## Education
+
+`2016`
+**Advanced English for Business** - Penn University, U.S
+
+`2014`
+**Master in Business Administration** - Open University, U.S
+
+`2010`
+**Linux Certified Network Administrator** - NIIT, India
+
+`2009`
+**Microsoft Certified Solutions Developer** - Microsoft Latam, U.S
+
+`2009`
+**Bsc. in Computer Science** - University of Havana, Cuba
+
+## Awards
+
+`2019,2018`
+**Winner of GES**, Department of State, Washington DC, U.S
+
+`2018,2017`
+**Winner of YLAI**, Department of State, Washington DC, U.S
+
+`2017`
+**Winner of Atlas Beta**, Palo Alto, California, U.S
+
+`2016`
+**Winner of 10 By 10**, Cuba Emprende Foundation, Miami, U.S
+
+## Publications
+
+`2017`
+Cuban Entrepreneurship waiting for an inflection point in Internet, EFE, New
+York, U.S
+
+`2017`
+Tech Entrepreneurship in Cuba, Medium.com, San Francisco, California, U.S
+
+`2016`
+Searching the next Unicorn in Cuba, Fortune Magazine, New York, U.S
+
+<br>
+
+## Languages
+
+`Native`
+Spanish
+
+`Foreigns`
+English
+
+- Italian
+- French
+
+## IT Professional Skills
+
+`OS`
+Windows *, *Nix, *Linux, Mac OS *, Android *, iOS *
+
+`Languages`
+C#, C++, C, Java, Awk, Bash, Perl, Python, Ruby, Qt
+
+`Web`
+MVC, HTML5, CCS3, PHP, Javascript, JQuery, Rails, Django
+
+`DB`
+Microsoft SQL Server, MySQL, PostgreSQL, Sqlite3, MongoDB
+
+## Professional Highlights
+
+Integrates easily into new development team.
+
+- Loves to take initiatives for new interesting ways of development and
+  techniques.
+- Gets actively involved in free an opensource projects for code and bugs
+  solving such as Firefox, LinUHx, Gnome and Ffaker.
+- Don't hesitate to correct Wikipedia articles or post in his personal blog.
+
+### Other skills and hobbies
+
+Driving Card A and B types
+
+- Advanced Salsa Dancer
+- Skydiver
+- Reader
+- Writer
 
 <!-- ### Footer
 
