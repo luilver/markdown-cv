@@ -25,6 +25,12 @@ Zequeira #223 e/ Cruz del padre y Consejero Arango, Cerro, 10200, Cuba
 `About me`
 [https://keybase.io/luilver](https://keybase.io/luilver)
 
+`Github`
+[https://github.com/luilver](https://github.com/luilver)
+
+`Twitter`
+[https://twitter.com/luilver](https://twitter.com/luilver)
+
 `Born`
 __Ukraine__
 
