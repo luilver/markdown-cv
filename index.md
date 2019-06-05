@@ -23,7 +23,7 @@ Zequeira #223 e/ Cruz del padre y Consejero Arango, Cerro, 10200, Cuba
 [luilver@gmail.com](luilver@gmail.com)
 
 `About me`
-[https://keybase.io/luilver"](https://keybase.io/luilver)
+[https://keybase.io/luilver](https://keybase.io/luilver)
 
 `Born`
 __Ukraine__
@@ -44,10 +44,10 @@ Senior [RoR](https://en.wikipedia.org/wiki/Ruby_on_Rails) full stack (Web develo
 
 ## Occupation
 
-`2018-current`
+`2018-`
 _(Self employee)_ **Home Run** - La Habana, Cuba
 
-`2017-current`
+`2017-`
 _(Self employee)_ **Knales** - La Habana, Cuba
 
 `2014-2017`
@@ -76,7 +76,7 @@ _(Self employee)_ **Knales** - La Habana, Cuba
 `2009`
 **Microsoft Certified Solutions Developer** - Microsoft Latam, U.S
 
-`2009`
+`2008`
 **Bsc. in Computer Science** - University of Havana, Cuba
 
 ## Awards
