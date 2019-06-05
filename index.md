@@ -6,8 +6,7 @@ title: Luilver Garces
 Computer Scientist
 
 <div id="webaddress">
-<a href="luilver@gmail.com">luilver@gmail.com</a>
-| <a href="https://keybase.io/luilver">https://keybase.io/luilver</a>
+Las update on: Tue Jun 5 02:04:25 UTC 2019
 </div>
 
 ## Contact
@@ -19,6 +18,12 @@ Zequeira #223 e/ Cruz del padre y Consejero Arango, Cerro, 10200, Cuba
 [+53 5264 4047](tel:+5352644047) **(WhatsApp)**
 
 - [+53 7870 2518](tel:+5378702518)
+
+`Email`
+[luilver@gmail.com](luilver@gmail.com)
+
+`About me`
+[https://keybase.io/luilver"](https://keybase.io/luilver)
 
 `Born`
 __Ukraine__
@@ -32,11 +37,18 @@ July 29, 1983 (35 years old)
 `Gender`
 Male
 
+
 ### Specialized in
 
-Web development and web services.
+Senior [RoR](https://en.wikipedia.org/wiki/Ruby_on_Rails) full stack (Web development and web services)
 
 ## Occupation
+
+`2018-current`
+_(Self employee)_ **Home Run** - La Habana, Cuba
+
+`2017-current`
+_(Self employee)_ **Knales** - La Habana, Cuba
 
 `2014-2017`
 **SkyPlanner** - Miami, U.S
@@ -109,16 +121,16 @@ English
 ## IT Professional Skills
 
 `OS`
-Windows *, *Nix, *Linux, Mac OS *, Android *, iOS *
+*Linux, *Nix, Windows *, Mac OS *, Android *, iOS *
 
 `Languages`
-C#, C++, C, Java, Awk, Bash, Perl, Python, Ruby, Qt
+Ruby, C#, C++, C, Java, Awk, Bash, Perl, Python, Qt
 
 `Web`
-MVC, HTML5, CCS3, PHP, Javascript, JQuery, Rails, Django
+Rails, MVC, HTML5, CCS3, PHP, Javascript, JQuery, Django
 
 `DB`
-Microsoft SQL Server, MySQL, PostgreSQL, Sqlite3, MongoDB
+PostgreSQL, Microsoft SQL Server, MySQL, Sqlite3, MongoDB
 
 ## Professional Highlights
 
