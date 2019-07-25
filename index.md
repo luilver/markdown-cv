@@ -23,7 +23,7 @@ Zequeira #223 e/ Cruz del padre y Consejero Arango, Cerro, 10200, Cuba
 [luilver@gmail.com](luilver@gmail.com)
 
 `About me`
-[https://keybase.io/luilver"](https://keybase.io/luilver)
+[https://keybase.io/luilver](https://keybase.io/luilver)
 
 `Born`
 __Ukraine__
