@@ -97,6 +97,9 @@ _(Self employee)_ **Knales** - La Habana, Cuba
 
 ## Publications
 
+`2019`
+La odisea de contratar un alojamiento web con ETECSA, El Toque, Havana, Cuba
+
 `2017`
 Cuban Entrepreneurship waiting for an inflection point in Internet, EFE, New
 York, U.S
