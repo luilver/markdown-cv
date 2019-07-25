@@ -46,13 +46,13 @@ Senior full stack RoR developer
 
 ## Occupation
 
-`2018-current`
+`2018-2019`
 **Home Run** - La Habana, Cuba
 
-`2017-current`
+`2016-2018`
 **Knales** - La Habana, Cuba
 
-`2014-2017`
+`2014-2016`
 **SkyPlanner** - Miami, U.S
 
 `2012-2014`
@@ -61,7 +61,7 @@ Senior full stack RoR developer
 `2009-2012`
 **Project Binario** - San Fco, U.S
 
-`2008-2010`
+`2007-2010`
 **Caraibes Autrement S.A** - París, Francia
 
 ## Education
