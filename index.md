@@ -12,12 +12,14 @@ Las update on: Thu Jul 25 16:04:25 UTC 2019
 ## Contact
 
 `Address`
-Zequeira #223 e/ Cruz del padre y Consejero Arango, Cerro, 10200, Cuba
+5958 Crooked Creek Dr, Corpus Christi, Texas, 78414, U.S
 
 `Telephones`
-[+53 5264 4047](tel:+5352644047) **(WhatsApp)**
 
-- [+53 7870 2518](tel:+5378702518)
+[+1 (361) 633-3074](tel:+13616333074)
+
+- [+53 5264 4047](tel:+5352644047) **(WhatsApp)**
+
 
 `Email`
 [luilver@gmail.com](luilver@gmail.com)
@@ -29,7 +31,7 @@ Zequeira #223 e/ Cruz del padre y Consejero Arango, Cerro, 10200, Cuba
 __Ukraine__
 
 `Lives`
-__Cuba__
+__U.S__
 
 `Birthday`
 July 29, 1983 (35 years old)
