@@ -47,10 +47,10 @@ Senior full stack RoR developer
 ## Occupation
 
 `2018-current`
-_(Self employee)_ **Home Run** - La Habana, Cuba
+**Home Run** - La Habana, Cuba
 
 `2017-current`
-_(Self employee)_ **Knales** - La Habana, Cuba
+**Knales** - La Habana, Cuba
 
 `2014-2017`
 **SkyPlanner** - Miami, U.S
