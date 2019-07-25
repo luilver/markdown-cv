@@ -158,6 +158,5 @@ Driving Card A and B types
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Last updated: Jul 2019 -->
 
