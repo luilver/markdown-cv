@@ -42,7 +42,7 @@ Male
 
 ### Specialized in
 
-Senior [RoR](https://en.wikipedia.org/wiki/Ruby_on_Rails) full stack (Web development and web services)
+Senior full stack RoR developer
 
 ## Occupation
 
