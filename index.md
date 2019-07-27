@@ -78,7 +78,7 @@ Senior full stack RoR developer
 `2009`
 **Microsoft Certified Solutions Developer** - Microsoft Latam, U.S
 
-`2009`
+`2008`
 **Bsc. in Computer Science** - University of Havana, Cuba
 
 ## Awards
