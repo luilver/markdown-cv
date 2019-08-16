@@ -6,18 +6,20 @@ title: Luilver Garces
 Computer Scientist
 
 <div id="webaddress">
-Las update on: Tue Jun 5 02:04:25 UTC 2019
+Last update on: Thu Ago 15 23:15:37 EDT 2019
 </div>
 
 ## Contact
 
 `Address`
-Zequeira #223 e/ Cruz del padre y Consejero Arango, Cerro, 10200, Cuba
+5958 Crooked Creek Dr, Corpus Christi, Texas, 78414, U.S
 
 `Telephones`
-[+53 5264 4047](tel:+5352644047) **(WhatsApp)**
 
-- [+53 7870 2518](tel:+5378702518)
+[+1 (361) 500-9547](tel:+13615009547)
+
+- [+53 5264 4047](tel:+5352644047) **(WhatsApp)**
+
 
 `Email`
 [luilver@gmail.com](luilver@gmail.com)
@@ -35,7 +37,7 @@ Zequeira #223 e/ Cruz del padre y Consejero Arango, Cerro, 10200, Cuba
 __Ukraine__
 
 `Lives`
-__Cuba__
+__U.S__
 
 `Birthday`
 July 29, 1983 (35 years old)
@@ -46,17 +48,17 @@ Male
 
 ### Specialized in
 
-Senior [RoR](https://en.wikipedia.org/wiki/Ruby_on_Rails) full stack (Web development and web services)
+Senior full stack RoR developer
 
 ## Occupation
 
-`2018-`
-_(Self employee)_ **Home Run** - La Habana, Cuba
+`2018-2019`
+**Home Run** - La Habana, Cuba
 
-`2017-`
-_(Self employee)_ **Knales** - La Habana, Cuba
+`2016-2018`
+**Knales** - La Habana, Cuba
 
-`2014-2017`
+`2014-2016`
 **SkyPlanner** - Miami, U.S
 
 `2012-2014`
@@ -65,7 +67,7 @@ _(Self employee)_ **Knales** - La Habana, Cuba
 `2009-2012`
 **Project Binario** - San Fco, U.S
 
-`2008-2010`
+`2007-2010`
 **Caraibes Autrement S.A** - París, Francia
 
 ## Education
@@ -100,6 +102,9 @@ _(Self employee)_ **Knales** - La Habana, Cuba
 **Winner of 10 By 10**, Cuba Emprende Foundation, Miami, U.S
 
 ## Publications
+
+`2019`
+La odisea de contratar un alojamiento web con ETECSA, El Toque, Havana, Cuba
 
 `2017`
 Cuban Entrepreneurship waiting for an inflection point in Internet, EFE, New
@@ -159,6 +164,5 @@ Driving Card A and B types
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Last updated: Ago 2019 -->
 
