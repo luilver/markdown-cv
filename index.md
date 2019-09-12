@@ -6,7 +6,7 @@ title: Luilver Garces
 Computer Scientist
 
 <div id="webaddress">
-Last update on: Thu Ago 15 23:15:37 EDT 2019
+Last update on: Thu Sep 12 05:05:07 EDT 2019
 </div>
 
 ## Contact
@@ -104,17 +104,22 @@ Senior full stack RoR developer
 ## Publications
 
 `2019`
-La odisea de contratar un alojamiento web con ETECSA, El Toque, Havana, Cuba
+[La odisea de contratar un alojamiento web con ETECSA](http://bit.ly/2LuBZQs),
+El Toque, Havana, Cuba.
 
 `2017`
-Cuban Entrepreneurship waiting for an inflection point in Internet, EFE, New
-York, U.S
+[How Did Cuba Make It Online?](http://bit.ly/32Jz50l), Knales, Havana, Cuba.
 
 `2017`
-Tech Entrepreneurship in Cuba, Medium.com, San Francisco, California, U.S
+[Tech Entrepreneurship in Cuba](http://bit.ly/2Lsns89), Habana Libre Hotel,
+Havana, Cuba.
+
+`2017`
+[Cuban Entrepreneurship waiting for an inflection point in
+Internet](http://bit.ly/32FgDG1), EFE, New York, U.S
 
 `2016`
-Searching the next Unicorn in Cuba, Fortune Magazine, New York, U.S
+["Ones to Watch" for Cuba Tech](http://bit.ly/2LruIkp), Havana, Cuba.
 
 <br>
 
@@ -164,5 +169,5 @@ Driving Card A and B types
 
 <!-- ### Footer
 
-Last updated: Ago 2019 -->
+Last updated: Sep 2019 -->
 
