@@ -50,9 +50,9 @@ Male
 
 Senior full stack RoR developer
 
-- Senior full stack .NET developer
+Senior full stack .NET developer
 
-- Xamarin and Swift developer
+Xamarin and Swift developer
 
 ## Occupation
 
