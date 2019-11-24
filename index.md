@@ -6,7 +6,7 @@ title: Luilver Garces
 Computer Scientist
 
 <div id="webaddress">
-Last update on: Thu Sep 12 05:05:07 EDT 2019
+Last update on: Sat Oct 23 21:58:14 EDT 2019
 </div>
 
 ## Contact
@@ -49,6 +49,10 @@ Male
 ### Specialized in
 
 Senior full stack RoR developer
+
+- Senior full stack .NET developer
+
+- Xamarin and Swift developer
 
 ## Occupation
 
@@ -140,13 +144,16 @@ English
 *Linux, *Nix, Windows *, Mac OS *, Android *, iOS *
 
 `Languages`
-Ruby, C#, C++, C, Java, Awk, Bash, Perl, Python, Qt
+Swift, Ruby, C#, C++, C, Java, Awk, Bash, Perl, Python, Qt
 
 `Web`
 Rails, MVC, HTML5, CCS3, PHP, Javascript, JQuery, Django
 
 `DB`
 PostgreSQL, Microsoft SQL Server, MySQL, Sqlite3, MongoDB
+
+`Mobile`
+Xamarin.Android and Xamarin.iOS
 
 ## Professional Highlights
 
@@ -169,5 +176,5 @@ Driving Card A and B types
 
 <!-- ### Footer
 
-Last updated: Sep 2019 -->
+Last updated: Oct 2019 -->
 
