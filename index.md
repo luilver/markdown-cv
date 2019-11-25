@@ -112,15 +112,17 @@ Xamarin and Swift developer
 El Toque, Havana, Cuba.
 
 `2017`
-[How Did Cuba Make It Online?](http://bit.ly/32Jz50l), Knales, Havana, Cuba.
-
-`2017`
-[Tech Entrepreneurship in Cuba](http://bit.ly/2Lsns89), Habana Libre Hotel,
-Havana, Cuba.
+[How Cuba's growing internet is fuelling new businesses](https://bbc.in/34lm6CY), BBC, New York, U.S
 
 `2017`
 [Cuban Entrepreneurship waiting for an inflection point in
 Internet](http://bit.ly/32FgDG1), EFE, New York, U.S
+
+`2017`
+[Tech Entrepreneurship in Cuba](http://bit.ly/2Lsns89), Habana Libre Hotel, Havana, Cuba.
+
+`2017`
+[How Did Cuba Make It Online?](http://bit.ly/32Jz50l), Knales, Havana, Cuba.
 
 `2016`
 ["Ones to Watch" for Cuba Tech](http://bit.ly/2LruIkp), Havana, Cuba.
