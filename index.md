@@ -6,7 +6,7 @@ title: Luilver Garces
 Computer Scientist
 
 <div id="webaddress">
-Last update on: Sat Oct 23 21:58:14 EDT 2019
+Last update on: Tue Dec 15 13:58:14 EDT 2019
 </div>
 
 ## Contact
@@ -16,9 +16,7 @@ Last update on: Sat Oct 23 21:58:14 EDT 2019
 
 `Telephones`
 
-[+1 (361) 500-9547](tel:+13615009547)
-
-- [+53 5264 4047](tel:+5352644047) **(WhatsApp)**
+[+1 (361) 461-4853](tel:+13614614853)
 
 
 `Email`
@@ -40,92 +38,43 @@ __Ukraine__
 __U.S__
 
 `Birthday`
-July 29, 1983 (36 years old)
+July 29, 1983 (37 years old)
 
 `Gender`
 Male
 
 
+### Seniorship
+
+.NET Core
+
+Ruby on Rails
+
+Test Driven Development
+
 ### Specialized in
 
-Senior full stack RoR developer
+Cloud infrastructures with Docker
 
-Senior full stack .NET developer
+Mobile Apps with Xamarin
 
-Xamarin and Swift developer
+Unit Testings with Xunit or Rspec
 
 ## Occupation
 
-`2018-2019`
-**Home Run** - La Habana, Cuba
+`2020-`
+**Appoim, Slr.** - Madrid, España
 
-`2016-2018`
-**Knales** - La Habana, Cuba
+`2018-2020`
+**PChomes, Inc.** - Texas, U.S
 
-`2014-2016`
-**SkyPlanner** - Miami, U.S
-
-`2012-2014`
-**Mixed Business Group** - New York, U.S
-
-`2009-2012`
-**Project Binario** - San Fco, U.S
-
-`2007-2010`
-**Caraibes Autrement S.A** - París, Francia
+`2015-2018`
+**Redeez, Llc.** - Texas, U.S
 
 ## Education
 
-`2016`
-**Advanced English for Business** - Penn University, U.S
-
-`2014`
-**Master in Business Administration** - Open University, U.S
-
-`2010`
-**Linux Certified Network Administrator** - NIIT, India
-
-`2009`
-**Microsoft Certified Solutions Developer** - Microsoft Latam, U.S
-
 `2008`
 **Bsc. in Computer Science** - University of Havana, Cuba
-
-## Awards
-
-`2019,2018`
-**Winner of GES**, Department of State, Washington DC, U.S
-
-`2018,2017`
-**Winner of YLAI**, Department of State, Washington DC, U.S
-
-`2017`
-**Winner of Atlas Beta**, Stripe, Palo Alto, California, U.S
-
-`2016`
-**Winner of 10 By 10**, Cuba Emprende Foundation, Miami, U.S
-
-## Publications
-
-`2019`
-[La odisea de contratar un alojamiento web con ETECSA](http://bit.ly/2LuBZQs),
-El Toque, Havana, Cuba.
-
-`2017`
-[How Cuba's growing internet is fuelling new businesses](https://bbc.in/34lm6CY), BBC, New York, U.S
-
-`2017`
-[Cuban Entrepreneurship waiting for an inflection point in
-Internet](http://bit.ly/32FgDG1), EFE, New York, U.S
-
-`2017`
-[Tech Entrepreneurship in Cuba](http://bit.ly/2Lsns89), Habana Libre Hotel, Havana, Cuba.
-
-`2017`
-[How Did Cuba Make It Online?](http://bit.ly/32Jz50l), Knales, Havana, Cuba.
-
-`2016`
-["Ones to Watch" for Cuba Tech](http://bit.ly/2LruIkp), Havana, Cuba.
 
 <br>
 
@@ -140,32 +89,29 @@ English
 - Italian
 - French
 
-## IT Professional Skills
-
-`OS`
-*Linux, *Nix, Windows *, Mac OS *, Android *, iOS *
+## Professional Skills
 
 `Languages`
-Swift, Ruby, C#, C++, C, Java, Awk, Bash, Perl, Python, Qt
+C#, Python, Ruby
 
-`Web`
-Rails, MVC, HTML5, CCS3, PHP, Javascript, JQuery, Django
+`Frameworks`
+.NET, Django, Rails
 
 `DB`
-PostgreSQL, Microsoft SQL Server, MySQL, Sqlite3, MongoDB
+Microsoft SQL Server, Postgres, Sqlite3
 
 `Mobile`
-Xamarin.Android and Xamarin.iOS
+Xamarin.Forms
+
+`Unit testing suites`
+Rspec, Xunit
 
 ## Professional Highlights
 
-Integrates easily into new development team.
+Results-driven professional with repeated success in ready to sale products
 
-- Loves to take initiatives for new interesting ways of development and
-  techniques.
-- Gets actively involved in free an opensource projects for code and bugs
-  solving such as Firefox, LinUHx, Gnome and Ffaker.
-- Don't hesitate to correct Wikipedia articles or post in his personal blog.
+- Full stack seniorship from DB to Distributed apps.
+- Proven experience as a project manager at enterprise level.
 
 ### Other skills and hobbies
 
@@ -178,5 +124,5 @@ Driving Card A and B types
 
 <!-- ### Footer
 
-Last updated: Oct 2019 -->
+Last updated: Dec 2020 -->
 
