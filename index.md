@@ -3,87 +3,92 @@ layout: cv
 title: Luilver Garces
 ---
 # Luilver Garces
-Computer Scientist
+Senior DevOp with a Major Bsc. in Computer Science
 
 <div id="webaddress">
-Last update on: Tue Dec 15 13:58:14 EDT 2019
-</div>
-
-## Contact
-
-`Address`
++1 (361) 461 4853 ~ luilver@knal.es ~ @luilver
+<br>
 5958 Crooked Creek Dr, Corpus Christi, Texas, 78414, U.S
-
-`Telephones`
-
-[+1 (361) 461-4853](tel:+13614614853)
-
-
-`Email`
-[luilver@gmail.com](mailto:luilver@gmail.com)
-
-`About me`
-[https://keybase.io/luilver](https://keybase.io/luilver)
-
-`Github`
-[https://github.com/luilver](https://github.com/luilver)
-
-`Twitter`
-[https://twitter.com/luilver](https://twitter.com/luilver)
-
-`Born`
-__Ukraine__
-
-`Lives`
-__U.S__
-
-`Birthday`
-July 29, 1983 (37 years old)
-
-`Gender`
-Male
-
-
-### Seniorship
-
-.NET Core
-
-Ruby on Rails
-
-Test Driven Development
-
-### Specialized in
-
-Cloud infrastructures with Docker
-
-Mobile Apps with Xamarin
-
-Unit Testings with Xunit or Rspec
-
-## Occupation
-
-`2020-`
-**Appoim, Slr.** - Madrid, España
-
-`2018-2020`
-**PChomes, Inc.** - Texas, U.S
-
-`2015-2018`
-**Redeez, Llc.** - Texas, U.S
+</div>
 
 ## Education
 
 `2008`
 **Bsc. in Computer Science** - University of Havana, Cuba
 
-<br>
+`2010`
+**NCNA Certified Network Administrator** - NIIT, India
+
+`2012`
+**CySA Cyber Security Analist** - Securmatica, Cuba
+
+### Seniorship
+
+`langs`
+.NET, Rails
+
+`ops`
+TDD, CI/CD
+
+`officer`
+PO/PM
+
+### Interests
+
+`cloud`
+Infrastructures with Docker
+
+`apps`
+Mobile Apps with Xamarin
+
+`tests`
+Unit Testings with Xunit or Rspec
+
+## Occupation
+
+`2020-`
+**Boxitas, Inc.** - Boulder, CO, U.S
+
+Lead developer managing a team of 5 in charge of:
+- [Boxitas](http://boxitas.com): AWS nodejs backend and React frontend
+with custom design,
+- [10Traits](http://10traits.com): Self hosted Ruby on Rails backend and React frontend,
+
+`2018-`
+**Appoim, Slr.** - Madrid, España
+
+Full stack Ruby on Rails devop with deployments in AWS. Sole developer in charge
+of:
+ - [Qvaccounting](http://51.81.86.70:8080/): _Under development_ Rails backend and VUEjs frontend
+with a Themesbrand template (stage site provided),
+ - [Qvafy](http://www.qvafy.com): AWS nodejs backend and Angular frontend,
+ - [Qvashop](http://www.qvashop.com) Self hosted Ruby on Rails backend and Angular frontend, 
+ - [Qvasell](http://qvasell.com): Self hosted Ruby on Rails backend and VUEjs frontend
+with custom design,
+ - [Qvasend](http://qvasend.com): Self hosted Ruby on Rails backend and VUEjs frontend,
+
+`2014-2019`
+**PChomes, Inc.** - Austin, TX, U.S
+
+Full stack .NET devop with deployments in self hosted infrastructure. As a team
+member in charge of unit testings, coding, docs and deployment operations within:
+ - [UcarOK](http://ucarok.com): .NET core backend and VUEjs frontend,
+ - [UcarOK Android App](http://play.google.com/store/apps/details?id=com.ucarok.obdconnect)
+Xamarin.Android app with custom design,
+ - [UcarOK iOS App](http://apps.apple.com/us/app/ucarok/id1389936706), [UcarMobile](http://ucarmobile.com),
+Xamarin.iOS app with custom design,
+ - [UcarMobile](http://ucarmobile.com): .NET core backend and VUEjs frontend,
+ - [UcarMobile Android App](http://play.google.com/store/apps/details?id=com.uCarMobile.obdconnect), 
+Xamarin.Android app with custom design,
+ - [UcarMobile iOS App](http://apps.apple.com/ie/app/ucar-mobile-car-care-repair/id1495701232)
+Xamarin.iOS app with custom design,
 
 ## Languages
 
-`Native`
+`native`
 Spanish
 
-`Foreigns`
+`foreigns`
 English
 
 - Italian
@@ -91,38 +96,47 @@ English
 
 ## Professional Skills
 
-`Languages`
+`languages`
 C#, Python, Ruby
 
-`Frameworks`
+`frameworks`
 .NET, Django, Rails
 
-`DB`
+`db`
 Microsoft SQL Server, Postgres, Sqlite3
 
-`Mobile`
+`mobile`
 Xamarin.Forms
 
-`Unit testing suites`
+`testing suites`
 Rspec, Xunit
 
 ## Professional Highlights
 
-Results-driven professional with repeated success in ready to sale products
+More than 10 years of experience in the design and development of web services
+using .NET and Ruby on Rails frameworks.
 
+- Vast experience in the use of Continuos Integration and Conintuos Delivery as
+a main key within the Quality of Software.
+- Strong project management skills including software research, client
+ relationships, control, reporting and delivery results.
+- Experience in Agile software development (Scrum and eXtreme Programming).
+- Test-driven professional with repeated success in ready to sale products
+- High aptitude for innovation, learning and applying new technologies.
+- Excellent team player with superior leading and interpersonal skills.
 - Full stack seniorship from DB to Distributed apps.
-- Proven experience as a project manager at enterprise level.
 
 ### Other skills and hobbies
 
-Driving Card A and B types
+Advanced Salsa Dancer
 
-- Advanced Salsa Dancer
 - Skydiver
 - Reader
 - Writer
 
-<!-- ### Footer
+<!-- ### Footprint
 
-Last updated: Dec 2020 -->
+Last update on: Thu Dec 17 11:44:23 CDT 2019
 
+Version: 0.1.3
+-->
