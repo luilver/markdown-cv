@@ -11,38 +11,37 @@ Senior DevOp with a Major Bsc. in Computer Science
 5958 Crooked Creek Dr, Corpus Christi, Texas, 78414, U.S
 </div>
 
-## Education
+## Professional Highlights
 
-`2008`
-**Bsc. in Computer Science** - University of Havana, Cuba
+More than 10 years of experience in the design and development of web services
+using .NET and Ruby on Rails frameworks.
 
-`2010`
-**NCNA Certified Network Administrator** - NIIT, India
+- Vast experience in the use of Continuos Integration and Conintuos Delivery as
+a main key within the Quality of Software.
+- Strong project management skills including software research, client
+ relationships, control, reporting and delivery results.
+- Experience in Agile software development (Scrum and eXtreme Programming).
+- Test-driven professional with repeated success in ready to sale products
+- High aptitude for innovation, learning and applying new technologies.
+- Excellent team player with superior leading and interpersonal skills.
+- Full stack seniorship from DB to Distributed apps.
 
-`2012`
-**CySA Cyber Security Analist** - Securmatica, Cuba
+## Professional Skills
 
-### Seniorship
+`languages`
+C#, Python, Ruby
 
-`langs`
-.NET, Rails
+`frameworks`
+.NET, Django, Rails
 
-`ops`
-TDD, CI/CD
+`db`
+Microsoft SQL Server, Postgres, Sqlite3
 
-`officer`
-PO/PM
+`mobile`
+Xamarin.Forms
 
-### Interests
-
-`cloud`
-Infrastructures with Docker
-
-`apps`
-Mobile Apps with Xamarin
-
-`tests`
-Unit Testings with Xunit or Rspec
+`testing suites`
+Rspec, Xunit
 
 ## Occupation
 
@@ -83,6 +82,17 @@ Xamarin.Android app with custom design,
  - [UcarMobile iOS App](http://apps.apple.com/ie/app/ucar-mobile-car-care-repair/id1495701232)
 Xamarin.iOS app with custom design,
 
+## Education
+
+`2008`
+**Bsc. in Computer Science** - University of Havana, Cuba
+
+`2010`
+**NCNA Certified Network Administrator** - NIIT, India
+
+`2012`
+**CySA Cyber Security Analist** - Securmatica, Cuba
+
 ## Languages
 
 `native`
@@ -93,38 +103,6 @@ English
 
 - Italian
 - French
-
-## Professional Skills
-
-`languages`
-C#, Python, Ruby
-
-`frameworks`
-.NET, Django, Rails
-
-`db`
-Microsoft SQL Server, Postgres, Sqlite3
-
-`mobile`
-Xamarin.Forms
-
-`testing suites`
-Rspec, Xunit
-
-## Professional Highlights
-
-More than 10 years of experience in the design and development of web services
-using .NET and Ruby on Rails frameworks.
-
-- Vast experience in the use of Continuos Integration and Conintuos Delivery as
-a main key within the Quality of Software.
-- Strong project management skills including software research, client
- relationships, control, reporting and delivery results.
-- Experience in Agile software development (Scrum and eXtreme Programming).
-- Test-driven professional with repeated success in ready to sale products
-- High aptitude for innovation, learning and applying new technologies.
-- Excellent team player with superior leading and interpersonal skills.
-- Full stack seniorship from DB to Distributed apps.
 
 ### Other skills and hobbies
 
