@@ -82,6 +82,42 @@ Xamarin.Android app with custom design,
  - [UcarMobile iOS App](http://apps.apple.com/ie/app/ucar-mobile-car-care-repair/id1495701232)
 Xamarin.iOS app with custom design,
 
+`2017-2019`
+**Home Run** - La Habana, Cuba
+
+CTO of the startup
+Xamarin mobile app developer
+Ruby on Rails full stack developer of:
+- [Home Run site](http://homerun.knal.es): Ruby on Rails API for SMS Gateways
+
+`2014-2018`
+**Knales** - La Habana, Cuba
+
+CEO of the startup
+Ruby on Rails backend developer of:
+- [Knales site](https://knales.github.io): Ruby on Rails + Jekyll
+- [SMS Gateway](http://sms.knal.es): Ruby on Rails API for SMS Gateways
+
+`2012-2014`
+**Tecnosime** - La Habana, Cuba
+
+Python developer of former www.tecnosime.cu full website.
+Network administrator.
+
+`2010-2012`
+**Kewelta** - La Habana, Cuba
+
+Python Gradle developer in charge of a desktop application for a close edition system.
+Pthon developer for the former www.kewelta.com API
+
+`2008-2010`
+**CIMEX** - Ciudad Tarará, La Habana, Cuba 
+
+Python developer in charge of a ticket system for school lunch process.
+Information security administrator.
+Engineer in charge of DNS, DHCP, Proxy and full network administration.
+Mathematic teacher within Turism career.
+
 ## Education
 
 `2008`
@@ -92,6 +128,46 @@ Xamarin.iOS app with custom design,
 
 `2012`
 **CySA Cyber Security Analist** - Securmatica, Cuba
+
+`2016`
+**Advanced English for Business** - Penn University, U.S
+
+`2014`
+**Master in Business Administration** - Open University, U.S
+
+## Awards
+
+`2019,2018`
+**Winner of GES**, Department of State, Washington DC, U.S
+
+`2018,2017`
+**Winner of YLAI**, Department of State, Washington DC, U.S
+
+`2017`
+**Winner of Atlas Beta**, Stripe, Palo Alto, California, U.S
+
+`2016`
+**Winner of 10 By 10**, Cuba Emprende Foundation, Miami, U.S
+
+## Publications
+
+`2019`
+__La odisea de contratar un alojamiento web con ETECSA__, El Toque, Havana, Cuba.
+
+`2017`
+__How Cuba’s growing internet is fuelling new businesses__, BBC, New York, U.S.
+
+`2017`
+__Cuban Entrepreneurship waiting for an inflection point in Internet__, EFE, New York, U.S
+
+`2017`
+__Tech Entrepreneurship in Cuba__, Habana Libre Hotel, Havana, Cuba.
+
+`2017`
+__How Did Cuba Make It Online?__, Knales, Havana, Cuba.
+
+`2016`
+__“Ones to Watch” for Cuba Tech__, Havana, Cuba.
 
 ## Languages
 
