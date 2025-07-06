@@ -95,14 +95,20 @@ Xamarin.iOS app with custom design,
 
 ## Education
 
-`2008`
-**Bsc. in Computer Science** - University of Havana, Cuba
+`2025`
+**Google Professional Architect** - Google Cloud Skills Boost, U.S
+
+`2024`
+**Scrum Master Certified** - Scrum Alliance, U.S
+
+`2012`
+**CySA Cyber Security Analist** - Securmatica, Cuba
 
 `2010`
 **NCNA Certified Network Administrator** - NIIT, India
 
-`2012`
-**CySA Cyber Security Analist** - Securmatica, Cuba
+`2008`
+**Bsc. in Computer Science** - University of Havana, Cuba
 
 ## Languages
 
