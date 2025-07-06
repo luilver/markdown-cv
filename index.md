@@ -3,24 +3,24 @@ layout: cv
 title: Luilver Garces
 ---
 # Luilver Garces
-Senior DevOp with a Major Bsc. in Computer Science
+Senior Software Engineer, skilled DevOp, and AI enthusiast with a Major Bsc. in Computer Science
 
 <div id="webaddress">
-+1 (361) 461 4853 ~ luilver@knal.es ~ @luilver
++1 (361) 461 4853 ~ garces@luilver.com ~ @luilver
 <br>
-5958 Crooked Creek Dr, Corpus Christi, Texas, 78414, U.S
+360 S State St, Orem, Utah, 84058, U.S
 </div>
 
 ## Professional Highlights
 
-More than 10 years of experience in the design and development of web services
-using .NET and Ruby on Rails frameworks.
+More than 20 years of experience in the design and development of microservices
+with Python, C# and Ruby. Learned Javascript and Go in the last year
 
 - Vast experience in the use of Continuos Integration and Conintuos Delivery as
 a main key within the Quality of Software.
 - Strong project management skills including software research, client
  relationships, control, reporting and delivery results.
-- Experience in Agile software development (Scrum and eXtreme Programming).
+- Experience in Agile software development (Scrum Alliance certified).
 - Test-driven professional with repeated success in ready to sale products
 - High aptitude for innovation, learning and applying new technologies.
 - Excellent team player with superior leading and interpersonal skills.
@@ -29,23 +29,33 @@ a main key within the Quality of Software.
 ## Professional Skills
 
 `languages`
-C#, Python, Ruby
+C#, Python, Ruby, Javascript & Go
 
 `frameworks`
 .NET, Django, Rails
 
 `db`
-Microsoft SQL Server, Postgres, Sqlite3
+Microsoft SQL Server, PostgreSQL, MySQL, Sqlite3
 
 `mobile`
 Xamarin.Forms
 
 `testing suites`
-Rspec, Xunit
+Pytest, Rspec, Xunit
+
+`distributed systems`
+gRPC, Protobuff, GCP
 
 ## Occupation
 
-`2020-`
+`2021-2025`
+**MX Technologies.** - Lehi, UT, U.S
+Senior Software Engineer in the Data Platform Team: Subject Matter Expert of the Webhook System, with a vast experience within Kubernetes infrastructure. Migrated most of the services from Honeybadgers to Datadog.
+- [MX - Data](https://www.mx.com/products/data/)
+Senior Software Engineer in the Connect Team: Backend engineer maintaining Javascript Widgets infrastructure and in charge of deploying new 3rd party integrations such as LexisNexis provider.
+- [MX - Connectivity](https://www.mx.com/products/connectivity/)
+
+`2020-2021`
 **Boxitas, Inc.** - Boulder, CO, U.S
 
 Lead developer managing a team of 5 in charge of:
@@ -53,7 +63,7 @@ Lead developer managing a team of 5 in charge of:
 with custom design,
 - [10Traits](http://10traits.com): Self hosted Ruby on Rails backend and React frontend,
 
-`2018-`
+`2018-2020`
 **Appoim, Slr.** - Madrid, España
 
 Full stack Ruby on Rails devop with deployments in AWS. Sole developer in charge
