@@ -51,8 +51,9 @@ gRPC, Protobuff, GCP
 `2021-2025`
 **MX Technologies.** - Lehi, UT, U.S
 
-Senior Software Engineer in the Data Platform Team: Subject Matter Expert of the Webhook System, with a vast experience within Kubernetes infrastructure. Migrated most of the services from Honeybadgers to Datadog.
 - [MX - Data](https://www.mx.com/products/data/)
+Senior Software Engineer in the Data Platform Team: Subject Matter Expert of the Webhook System, with a vast experience within Kubernetes infrastructure. Migrated most of the services from Honeybadgers to Datadog.
+
 Senior Software Engineer in the Connect Team: Backend engineer maintaining Javascript Widgets infrastructure and in charge of deploying new 3rd party integrations such as LexisNexis provider.
 - [MX - Connectivity](https://www.mx.com/products/connectivity/)
 
