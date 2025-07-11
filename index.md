@@ -1,137 +1,70 @@
 ---
-layout: cv
-title: Luilver Garces
+name: "Luilver Garces"
+role: "Data Engineer"
+contact:
+  email: garces@luilver.com
+  phone: "+1 (361) 461-4853"
+  linkedin: luilver
+  github: luilver
 ---
-# Luilver Garces
-Senior Software Engineer, skilled DevOp, and AI enthusiast with a Major Bsc. in Computer Science
 
-<div id="webaddress">
-+1 (361) 461 4853 ~ garces@luilver.com ~ @luilver
-<br>
-360 S State St, Orem, Utah, 84058, U.S
-</div>
+## Summary
 
-## Professional Highlights
+- **Data Engineer** with 5 years of experience designing, building, and operating data pipelines.
+- Proficient in **Google BigQuery**, **SQLAlchemy**, **pandas**, and **Luigi** to support analytics, ETL/ELT, and data warehousing.
+- Skilled in optimizing query performance, automating workflows, and delivering clean datasets for stakeholders and ML teams.
 
-More than 20 years of experience in the design and development of microservices
-with Python, C# and Ruby. Learned Javascript and Go in the last year
+## Tech Skills
 
-- Vast experience in the use of Continuos Integration and Conintuos Delivery as
-a main key within the Quality of Software.
-- Strong project management skills including software research, client
- relationships, control, reporting and delivery results.
-- Experience in Agile software development (Scrum Alliance certified).
-- Test-driven professional with repeated success in ready to sale products
-- High aptitude for innovation, learning and applying new technologies.
-- Excellent team player with superior leading and interpersonal skills.
-- Full stack seniorship from DB to Distributed apps.
+- **Languages & Frameworks**: Python, SQL
+- **ETL & Orchestration**: Luigi, Airflow
+- **DB & Warehousing**: BigQuery, PostgreSQL, MySQL
+- **ORM & DB APIs**: SQLAlchemy
+- **Data Manipulation**: pandas, NumPy
+- **Cloud Services**: GCP (BigQuery, Cloud Storage), AWS (S3, Redshift)
+- **Deployment & CI/CD**: Docker, GitHub Actions, Terraform
+- **Monitoring & Logging**: Stackdriver, Cloud Monitoring, Prometheus
 
-## Professional Skills
+## Experience
 
-`languages`
-C#, Python, Ruby, Javascript & Go
+### Senior Data Engineer • _MX Technologies, Lehi, UT_ • May 2021 – Present
+- Designed and maintained **Luigi-based pipelines** for processing streaming and batch data (daily volumes ~100GB).
+- Built transformations in **pandas** to normalize, clean, and aggregate raw data for analytics tables.
+- Automated task orchestration, dependency management, and alerting.
+- Developed and optimized queries in **Google BigQuery**, achieving 30% faster performance and reduced costs by 20%.
+- Used **SQLAlchemy** for seamless interactions with PostgreSQL and BigQuery via Python scripts with robust retry logic and connection pooling.
 
-`frameworks`
-.NET, Django, Rails
-
-`db`
-Microsoft SQL Server, PostgreSQL, MySQL, Sqlite3
-
-`mobile`
-Xamarin.Forms
-
-`testing suites`
-Pytest, Rspec, Xunit
-
-`distributed systems`
-gRPC, Protobuff, GCP
-
-## Occupation
-
-`2021-2025`
-**MX Technologies.** - Lehi, UT, U.S
-
-- [MX - Data](https://www.mx.com/products/data/):
-Senior Software Engineer in the Data Platform Team: Subject Matter Expert of the Webhook System, with a vast experience within Kubernetes infrastructure. Migrated most of the services from Honeybadgers to Datadog.
-- [MX - Connectivity](https://www.mx.com/products/connectivity/):
-Senior Software Engineer in the Connect Team: Backend engineer maintaining Javascript Widgets infrastructure and in charge of deploying new 3rd party integrations such as LexisNexis provider.
-
-`2020-2021`
-**Boxitas, Inc.** - Boulder, CO, U.S
-
-Lead developer managing a team of 5 in charge of:
-- [Boxitas](http://boxitas.com): AWS nodejs backend and React frontend
-with custom design,
-- [10Traits](http://10traits.com): Self hosted Ruby on Rails backend and React frontend,
-
-`2018-2020`
-**Appoim, Slr.** - Madrid, España
-
-Full stack Ruby on Rails devop with deployments in AWS. Sole developer in charge
-of:
- - [Qvaccounting](http://51.81.86.70:8080/): _Under development_ Rails backend and VUEjs frontend
-with a Themesbrand template (stage site provided),
- - [Qvafy](http://www.qvafy.com): AWS nodejs backend and Angular frontend,
- - [Qvashop](http://www.qvashop.com) Self hosted Ruby on Rails backend and Angular frontend, 
- - [Qvasell](http://qvasell.com): Self hosted Ruby on Rails backend and VUEjs frontend
-with custom design,
- - [Qvasend](http://qvasend.com): Self hosted Ruby on Rails backend and VUEjs frontend,
-
-`2014-2019`
-**PChomes, Inc.** - Austin, TX, U.S
-
-Full stack .NET devop with deployments in self hosted infrastructure. As a team
-member in charge of unit testings, coding, docs and deployment operations within:
- - [UcarOK](http://ucarok.com): .NET core backend and VUEjs frontend,
- - [UcarOK Android App](http://play.google.com/store/apps/details?id=com.ucarok.obdconnect)
-Xamarin.Android app with custom design,
- - [UcarOK iOS App](http://apps.apple.com/us/app/ucarok/id1389936706), [UcarMobile](http://ucarmobile.com),
-Xamarin.iOS app with custom design,
- - [UcarMobile](http://ucarmobile.com): .NET core backend and VUEjs frontend,
- - [UcarMobile Android App](http://play.google.com/store/apps/details?id=com.uCarMobile.obdconnect), 
-Xamarin.Android app with custom design,
- - [UcarMobile iOS App](http://apps.apple.com/ie/app/ucar-mobile-car-care-repair/id1495701232)
-Xamarin.iOS app with custom design,
+### Data Engineer • _PrintAI Innovations, Boulder, CO_ • Jun 2019 – Jun 2021
+- Implemented ETL workflows using **pandas**, SQLAlchemy, and custom scripts to populate data warehouse and ML-ready datasets.
+- Set up initial **Redshift** environment: schemas, partitioned tables, access controls, and cost monitoring.
+- Collaborated with data scientists and analysts, delivering standardized datasets and reusable transformation libraries.
 
 ## Education
 
-`2025`
-**Google Professional Architect** - Google Cloud Skills Boost, U.S
+**B.S. in Computer Science**  
+University of Havana — 2008
 
-`2024`
-**Scrum Master Certified** - Scrum Alliance, U.S
+## Projects
 
-`2012`
-**CySA Cyber Security Analist** - Securmatica, Cuba
+### End-to-end Analytics Pipeline
+- Built an **ETL pipeline** using Luigi that orchestrated data ingestion from APIs → staging in GCS → cleaning with pandas → loading to BigQuery.
+- Implemented error handling, retries, and task visualization via Luigi UI.
 
-`2010`
-**NCNA Certified Network Administrator** - NIIT, India
+### Query Performance Optimization
+- Refactored slow-performing BigQuery SQL using partitioning, clustering, and materialized views.
+- Reduced query execution time by 40% and cost per query by 25%.
 
-`2008`
-**Bsc. in Computer Science** - University of Havana, Cuba
+### DB API Abstraction Layer
+- Developed a Python library using **SQLAlchemy** to abstract database operations, supporting multiple backends (PostgreSQL, BigQuery).
+- Features included connection pooling, migrations, transaction support, and type-safe model definitions.
 
-## Languages
+## Certifications
 
-`native`
-Spanish
+- Google Cloud Certified – Professional Architect - 2024
 
-`foreigns`
-English
+## Tools & Platforms
 
-- Italian
-- French
-
-### Other skills and hobbies
-
-Advanced Salsa Dancer
-
-- Skydiver
-- Reader
-- Writer
-
-<!-- ### Footprint
-
-Last update on: Sun Jul 6 01:59:16 PM MDT 2025
-
-Version: 0.2.4
--->
+| ETL / Orchestration | pandas | SQLAlchemy | Luigi |
+|---|---|---|---|
+| BigQuery | PostgreSQL | Docker | GitHub Actions |
+| GCP (Cloud Storage, IAM) | Python 3 | Linux | Git |
