@@ -10,61 +10,62 @@ contact:
 
 ## Summary
 
-- **Data Engineer** with 5 years of experience designing, building, and operating data pipelines.
-- Proficient in **Google BigQuery**, **SQLAlchemy**, **pandas**, and **Luigi** to support analytics, ETL/ELT, and data warehousing.
-- Skilled in optimizing query performance, automating workflows, and delivering clean datasets for stakeholders and ML teams.
+- Experienced **Software Engineer** with 10+ years designing and developing microservices.
+- **Data Engineer** with 5+ years designing, building, and operating data pipelines.
 
 ## Tech Skills
 
-- **Languages & Frameworks**: Python, SQL
-- **ETL & Orchestration**: Luigi, Airflow
-- **DB & Warehousing**: BigQuery, PostgreSQL, MySQL
-- **ORM & DB APIs**: SQLAlchemy
-- **Data Manipulation**: pandas, NumPy
-- **Cloud Services**: GCP (BigQuery, Cloud Storage), AWS (S3, Redshift)
-- **Deployment & CI/CD**: Docker, GitHub Actions, Terraform
-- **Monitoring & Logging**: Stackdriver, Cloud Monitoring, Prometheus
+- **Languages & Frameworks**: Java, Python, Django, .NET, Ruby, Rails, Go, Javascript, React, Vue
+- **Deployment & CI/CD**: Docker, Kubernetes, Jenkins, Terraform, Git
+- **DB & Warehousing**: BigQuery, PostgreSQL, MySQL, ElasticSearch
+- **Messaging & Events**: Kafka, RabbitMQ
+- **ORM & DB APIs**: SQLAlchemy, ActiveModel, EntityFramework
+- **Mobile**: Xamarin.Forms, React-Native
+- **Testing Suites**: JUnit, Pytest, Rspec
+- **Cloud Services**: GCP (BigQuery, Cloud Storage)
 
 ## Experience
 
-### Senior Data Engineer • _MX Technologies, Lehi, UT_ • May 2021 – Present
-- Designed and maintained **Luigi-based pipelines** for processing streaming and batch data (daily volumes ~100GB).
-- Built transformations in **pandas** to normalize, clean, and aggregate raw data for analytics tables.
-- Automated task orchestration, dependency management, and alerting.
-- Developed and optimized queries in **Google BigQuery**, achieving 30% faster performance and reduced costs by 20%.
-- Used **SQLAlchemy** for seamless interactions with PostgreSQL and BigQuery via Python scripts with robust retry logic and connection pooling.
+### Senior Software Engineer • _MX Technologies, Lehi, UT_ • May 2021 – Present
+_Subject Matter Expert of the Data Enhancement team_
+- Developed and implemented new features within the Data Platform Team to improve overall system performance and reliability.
+- Migrated microservices from Ruby + Postgresql to Go + BigQuery, achieving 30% faster performance and reduced costs by 20%.
+- Used SQLAlchemy for seamless interactions with PostgreSQL and BigQuery via Python scripts with robust retry logic and connection pooling.
 
-### Data Engineer • _PrintAI Innovations, Boulder, CO_ • Jun 2019 – Jun 2021
-- Implemented ETL workflows using **pandas**, SQLAlchemy, and custom scripts to populate data warehouse and ML-ready datasets.
-- Set up initial **Redshift** environment: schemas, partitioned tables, access controls, and cost monitoring.
+### Software Engineer • _PrintAI Innovations, Boulder, CO_ • Jun 2019 – Jun 2021
+_Software Reliability Engineer_
+- Scraping and simulating datasets for model training.
+- Managed Java (J#) microservices and facilitated deployment of new 3rd party integrations.
 - Collaborated with data scientists and analysts, delivering standardized datasets and reusable transformation libraries.
+
+### Full Stack .NET • _PChomes Solutions, Austin, TX_ • Jan 2013 - Dec 2019
+_Sole developer in charge of Ucar application_
+- UcarOK: J# .NET core backend and VUEjs frontend.
+- UcarOK Android App Xamarin.Android app with custom design.
+- UcarOK iOS App. UcarMobile, Xamarin.iOS app with custom design,
+- UcarMobile: J# .NET core backend and VUEjs frontend.
+- UcarMobile Android App. Xamarin.Android app with custom design,
+- UcarMobile iOS App Xamarin.iOS app with custom design.
 
 ## Education
 
 **B.S. in Computer Science**  
 University of Havana — 2008
 
-## Projects
-
-### End-to-end Analytics Pipeline
-- Built an **ETL pipeline** using Luigi that orchestrated data ingestion from APIs → staging in GCS → cleaning with pandas → loading to BigQuery.
-- Implemented error handling, retries, and task visualization via Luigi UI.
-
-### Query Performance Optimization
-- Refactored slow-performing BigQuery SQL using partitioning, clustering, and materialized views.
-- Reduced query execution time by 40% and cost per query by 25%.
-
-### DB API Abstraction Layer
-- Developed a Python library using **SQLAlchemy** to abstract database operations, supporting multiple backends (PostgreSQL, BigQuery).
-- Features included connection pooling, migrations, transaction support, and type-safe model definitions.
-
 ## Certifications
 
-- Google Cloud Certified – Professional Architect - 2024
+- Google Cloud Certified – Professional Architect - 2025
+- Scrum Alliance Certified – Scrum Master - 2024
+- Segurmatica – CySA Cyber Security Analist - 2020
 
-## Tools & Platforms
+## Languages
+- Spanish - Native
+- English - Fluent
+- Italian - Fluent
+- French  - Average
 
-| ETL / Orchestration | pandas | SQLAlchemy | Luigi |
-|---|---|---|---|
-| BigQuery | PostgreSQL | Docker | GitHub Actions |
-| GCP (Cloud Storage, IAM) | Python 3 | Linux | Git |
+## Hobbies
+- Pro Salsa Dancer
+- Skydiver
+- Reader
+- Writer
