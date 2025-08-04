@@ -1,7 +1,9 @@
 Luilver Garces
 ==============
 
-Senior Software Engineer, skilled DevOp, and AI enthusiast with a Major Bsc. in Computer Science
+Senior Software Engineer, skilled DevOp, and AI enthusiast with a Major Bsc. in Computer Science.
+
+A formated version of this CV can be found [here][].
 
 ## Professional Highlights
 
@@ -50,3 +52,4 @@ Senior Software Engineer, skilled DevOp, and AI enthusiast with a Major Bsc. in 
 [Soft Skills]: ./Soft_skills.md
 [Awards]: ./Awards.md
 [Publications]: ./Publications.md
+[here]: https://luilver.github.io/markdown-cv
