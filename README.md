@@ -38,6 +38,7 @@ Senior Software Engineer, skilled DevOp, and AI enthusiast with a Major Bsc. in 
 ## Hobbies
 
 [Hobbies][]
+
 --
 
 [Highlights]: ./Highlights.md
