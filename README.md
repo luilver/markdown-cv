@@ -1,66 +1,51 @@
-markdown-cv
-===========
+Luilver Garces
+==============
 
-A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
+Senior Software Engineer, skilled DevOp, and AI enthusiast with a Major Bsc. in Computer Science
 
-For more details see the [project page](http://elipapa.github.io/markdown-cv) or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+## Professional Highlights
 
-***
+[Highlights][]
 
-## Usage
+## Occupations
 
-To start, simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+[Occupations][]
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+## Education
 
-and then [edit directly in github](https://help.github.com/articles/editing-files-in-your-repository/) the `index.md` file
+[Education][]
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+## Professional Skills
 
-adding your skills, jobs and education.
+[Technical Skills][]
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+## Soft Skills
 
-To transform your plain text CV into a beautiful looking HTML page and share it you then have two options:
+[Soft Skills][]
 
-## 1) Using Github Pages to publish it online
+## Languages
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch)
-2. Create a new branch called `gh-pages` (which will then be a copy of master)
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+[Languages][]
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+## Awards
 
+[Awards][]
 
-## 2) Build it locally and print a PDF
-1. [install jekyll](https://jekyllrb.com/docs/installation/) on your computer. `gem install jekyll` will do for most users.
-2. Clone your fork on your computer
-3. Type `jekyll serve` and you'll be able to see your CV on your local host (the default address is http://localhost:4000).
-4. You can edit the `index.md` file and see changes live in your browser.
-5. To print a PDF, just press *Print*. Print and web CSS media queries should take care of the styling.
+## Publications
 
+[Publications][]
 
-### Change the style
+## Hobbies
 
-The included CSS renders CV in different styles:
+[Hobbies][]
+--
 
-- `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita)
-- `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned
-
-To change the default style, one needs to simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[GitHub](http://github.com/elipapa)/[website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+[Highlights]: ./Highlights.md
+[Technical Skills]: ./Technical_skills.md
+[Occupations]: ./Occupations.md
+[Education]: ./Education.md
+[Languages]: ./Languages.md
+[Hobbies]: ./Hobbies.md
+[Soft Skills]: ./Soft_skills.md
+[Awards]: ./Awards.md
+[Publications]: ./Publications.md
