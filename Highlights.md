@@ -1,3 +1,8 @@
+`Top`
+- Experienced Software Engineer with 10+ years designing and developing microservices.
+- Data Engineer with 5+ years designing, building, and operating data pipelines.
+
+`Soft`
 - Vast experience in the use of Continuos Integration and Conintuos Delivery as
 a main key within the Quality of Software.
 - Strong project management skills including software research, client
