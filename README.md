@@ -3,7 +3,7 @@ Luilver Garces
 
 Senior Software Engineer, skilled DevOp, and AI enthusiast with a Major Bsc. in Computer Science.
 
-A formated version of this CV can be found [here][].
+A formatted and summarized version of this CV can be found [here][].
 
 ## Professional Highlights
 
@@ -20,6 +20,10 @@ A formated version of this CV can be found [here][].
 ## Professional Skills
 
 [Technical Skills][]
+
+## Certifications
+
+[Certifications][]
 
 ## Soft Skills
 
@@ -53,3 +57,4 @@ A formated version of this CV can be found [here][].
 [Awards]: ./Awards.md
 [Publications]: ./Publications.md
 [here]: https://luilver.github.io/markdown-cv
+[Certifications]: ./Certifications.md
